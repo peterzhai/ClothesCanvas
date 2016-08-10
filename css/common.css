@@ -1,0 +1,28 @@
+.main {
+    display: block;
+    background: #ffff00;
+    position: relative;
+}
+
+.footer {
+    position: relative;
+
+}
+
+
+.back-canvas {
+    width: 800px;
+    height:800px;
+
+    background: #ff00ff;
+    magin: 0 auto;
+    position: absolute;
+}
+
+.draw-canvas {
+    background: #ff0000;
+    width: 500px;
+    height: 500px;
+    margin:150px 150px;
+    position: absolute;
+}
